@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 ### bio
 Hello! :star_struck: My name is Tingting, although I also go by Siri. Currently, I'm trying to do more research about machine learning and hopefully, start my own ML projects. Nice seeing you here!
+
+### contacts
+- [linkedln](https://www.linkedin.com/in/sirichada-w-916518260/)

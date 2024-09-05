@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### quick facts
 - :computer: **Name:** Tingting
-- :mortar_board: **Academics:** 1st Year @ CMKL
+- :mortar_board: **Academics:** 2nd Year @ CMKL
 - :memo: **Pronouns:** She/Her
 
 ### bio

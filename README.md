@@ -25,4 +25,4 @@ Hello! :star_struck: My name is Tingting, although I also go by Siri. Currently,
 
 ### contacts
 - [email](mailto:swattan@cmkl.ac.th)
-- [linkedln](https://www.linkedin.com/in/sirichada-w-916518260/)
+- [linkedln](https://www.linkedin.com/in/sirichada-tingting-w-916518260/)
